@@ -1,0 +1,87 @@
+*{margin:0;padding:0}
+body {
+    background: linear-gradient(45deg,#3718e1,#9810c8,#7b3aef,#ec0afb);
+    font-family: arial;
+}
+p,a{display:inline}
+.main {
+    padding-top:3px;
+    width: 279px;
+    height: 254px;
+    margin: auto;
+    position: relative;
+    top: 7%;
+    background: #ecfeff;
+    border-radius: 9px;
+}
+.inpu1 input,.inpu2 input{
+    border: none;
+    outline: none;
+    background: none;
+	margin-bottom: -5px;
+
+}
+.inpu1,.inpu2 {
+	border-bottom: 2px solid #6b6a6a;
+    padding-bottom: 10px;
+    width: 239px;
+    margin: auto;
+    margin-bottom: 22px;
+}
+.head {
+    text-align: center;
+    border-bottom: 1px solid #9f9a9ade;
+    margin-bottom: 21px;
+    margin-top: 12px;
+}
+h2{margin-bottom: 11px;}
+
+span {
+    font-size: 14px;
+    color: #757575;
+    margin-left: 20px;
+    position: relative;
+    top: -7px;
+}
+.inpu3 {
+    margin: auto;
+    width: 243px;
+    background: #0c79e9;
+    text-align: center;
+    padding: 8px 0px;
+    border-radius: 22px;
+    margin-top: 5px;
+}
+.inpu3 input{
+    border: none;
+    background: none;
+    outline: none;
+	font-weight:bold;
+	color:white
+}
+.last {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 13px;
+    font-weight: bold;
+    color: #555555e8;
+}
+a{text-decoration:none;
+	margin-left:4px;
+	color:blue
+	}
+	.lekha {
+    font-size: 33px;
+    color: white;
+    text-align: center;
+}.num {
+    font-size: 17px;
+    text-align: center;
+    color: white;
+    margin-top: 12px;
+}.log {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 38px;
+}

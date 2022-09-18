@@ -1,0 +1,127 @@
+body {
+    background: #6800D0;
+	font-family:arial;
+}
+ul {
+    list-style: none;
+    float: right;
+}
+li {
+    float: left;
+    margin-right: 28px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.list {
+    position: absolute;
+    top: 8px;
+    left: 1035px;
+}
+
+.logo {
+    position: absolute;
+    left: 108px;
+}
+.school {
+    font-size: 46px;
+    position: absolute;
+    left: 84px;
+    top: 221px;
+    font-weight: bold;
+}
+.na {
+    position: absolute;
+    top: 285px;
+}
+
+.next {
+    font-size: 38px;
+    position: relative;
+    left: 142px;
+}
+.button {
+    position: absolute;
+    top: 392px;
+    left: 306px;
+
+}
+
+.likha {
+    font-size: 19px;
+    position: relative;
+    left: 236px;
+    color: #2e2828;
+}
+
+.las {
+    font-size: 19px;
+    position: relative;
+    left: 171px;
+    color: #302c2c;
+}
+.pic {
+    position: absolute;
+    top: 184px;
+    left: 889px;
+    border: 7px solid #5600ac;
+    box-shadow: -1px 6px 153px 30px;
+}
+.button:hover a{background:white;color:black}
+marquee {
+    width: 462px;
+    position: absolute;
+    left: 151px;
+    top: 446px;
+}
+h1 {
+    font-size: 26px;
+    font-weight: 200;
+}
+li:hover a {color:#dec0fb;}
+i.fab.fa-facebook-square {
+    position: absolute;
+    font-size: 36px;
+    color: #afa7c0;
+    top: 710px;
+    left: 59px;
+}
+i.fab.fa-youtube-square {
+    position: absolute;
+    font-size: 36px;
+    color: #b0abba;
+    top: 710px;
+    left: 283px;
+}
+i.fab.fa-linkedin-in {
+    position: absolute;
+    font-size: 36px;
+    color: #afa7c0;
+    top: 710px;
+    left: 228px;
+}
+i.fab.fa-instagram {
+    position: absolute;
+    font-size: 36px;
+    color: #afa7c0;
+    top: 710px;
+    left: 173px;
+}
+i.fab.fa-twitter-square {
+    position: absolute;
+    font-size: 36px;
+    color: #afa7c0;
+    top: 710px;
+    left: 116px;
+}
+.dir {
+    color: white;
+    font-weight: bold;
+    font-size: 29px;
+    position: absolute;
+    top: 115px;
+    right: 88px;
+}
